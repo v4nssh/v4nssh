@@ -13,11 +13,6 @@
 ---
 
 ## ⚡ About Me
-I’m a B.Tech CSE (AI) student and Founder of **Drapels**, an AI-powered platform helping people get job-ready with roadmaps, interview prep, and live learning.  
-
-Instead of just studying AI, I build with it — from **LLMs and RAG** to full-stack apps using **Next.js, Firebase, and Vercel**.  
-
-I’m scaling Drapels and open to **collaborations, partnerships, and growth opportunities** in AI and startups.
 
 ---
 
