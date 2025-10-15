@@ -2,7 +2,7 @@
 
 <!-- Header Banner with Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=220&section=header&text=Hi%20👋,%20I'm%20Taizun&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=220&section=header&text=Hi%20👋,%20I'm%20Vansh&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 <!-- Typing SVG -->
@@ -30,7 +30,7 @@ I’m scaling Drapels and open to **collaborations, partnerships, and growth opp
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t4zn&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6EC4&icon_color=FF6EC4" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=v4nssh&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6EC4&icon_color=FF6EC4" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=t4zn&theme=radical&hide_border=true&background=0D1117&ring=FF6EC4&fire=FF6EC4&currStreakLabel=FF6EC4" height="165"/>
 </p>
 
@@ -95,12 +95,12 @@ I’m scaling Drapels and open to **collaborations, partnerships, and growth opp
 <!-- Taizun AI -->
 <td align="center" width="250">
 
-### 🤖 Taizun AI  
+### 🤖 Vansh AI  
 <a href="https://taizunai.vercel.app" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🤖%20Taizun%20AI&width=250&height=120" alt="Taizun AI Banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=🤖%20Taizun%20AI&width=250&height=120" alt="Vansh AI Banner"/>
 </a>  
 
-<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/taizunai.gif" width="100%" alt="Taizun AI Demo"/>  
+<img src="https://raw.githubusercontent.com/taizun/demo-assets/main/taizunai.gif" width="100%" alt="Vansh AI Demo"/>  
 
 **3D Multimodal Chat**  
 🚀 3D interface + **LLM multimodal chat** app.  
